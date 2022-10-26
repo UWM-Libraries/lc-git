@@ -28,4 +28,4 @@ In group work, spend some time trying to illustrate some of the commands we've u
 * try to express git commands in a non 'git' way
 * try to visualise what commits are doing to your repository
 
-If you want to practise more feel free to keep practicising making changes to your file and committing the changes. If you want to explore more git commands, search for some more online or follow one of the suggested links below.
+If you want to practise more feel free to keep practicising making changes to your file and committing the changes. If you want to explore more git commands, search for some more online or review the suggested links in this lesson's [Quick Reference page](../reference.md).
