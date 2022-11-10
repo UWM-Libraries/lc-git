@@ -315,15 +315,15 @@ and git has also recorded some additional metadata: who made the commit (you!) a
 >A paragraph is denoted by white space before and after.
 >
 >A bulleted list:
+>* level 1
 >- level 1
->- level 1
->	- level 2
+>	* level 2
 >	- level 2
 >
 >A numbered list:
 >1. One
->2. Two
->3. Three
+>1. Two
+>1. Three
 >
 >*italic text*
 >
