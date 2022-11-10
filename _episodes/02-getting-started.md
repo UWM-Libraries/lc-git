@@ -336,6 +336,7 @@ and git has also recorded some additional metadata: who made the commit (you!) a
 >
 > Embed a link with [square brackets](https://daringfireball.net/projects/markdown/syntax)
 > ~~~
+> {: .bash}
 >
 {: .challenge}
 
