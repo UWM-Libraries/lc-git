@@ -302,6 +302,42 @@ so that we can write a longer message.
 Having made a commit, we now have a permanent record of what was changed,
 and git has also recorded some additional metadata: who made the commit (you!) and when the commit was made (timestamp). You are building a mini-history of your process of working with the files in this directory. 
 
+> ## Challenge: Add more Markdown to your file and commit your changes
+>
+> In a text editor, add the text below to your index.md file and commit the changes to your repository.
+>'''
+>## Level 2 Heading
+>
+>### Level 3 Heading
+>
+>A paragraph is denoted by white space before and after.
+>
+>	A bulleted list:
+>	- level 1
+>	- level 1
+>			- level 2
+>			- level 2
+>
+>	A numbered list:
+>	1. One
+>	2. Two
+>	3. Three
+>
+>*italic text*
+>
+>**bold text**
+>
+>~~strikethrough text~~
+>  
+>	---
+>	Make a horizontal rule
+>	---
+>
+>Embed a link with [square brackets](https://daringfireball.net/projects/markdown/syntax)
+>```
+>
+{: .challenge}
+
 > ## More on the Staging Area
 >
 > If you think of Git as taking snapshots of changes over the life of a project,
