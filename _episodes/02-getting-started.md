@@ -307,13 +307,13 @@ and git has also recorded some additional metadata: who made the commit (you!) a
 > In a text editor, add the markdown text below to your index.md file and commit the changes to your repository.
 >
 > ~~~
->## Level 2 Heading
+> ## Level 2 Heading
 >
->### Level 3 Heading
+> ### Level 3 Heading
 >
->A paragraph is denoted by white space before and after.
+> A paragraph is denoted by white space before and after.
 >
->	A bulleted list:
+> A bulleted list:
 >	- level 1
 >	- level 1
 >			- level 2
