@@ -304,7 +304,7 @@ and git has also recorded some additional metadata: who made the commit (you!) a
 
 > ## Challenge: Add more Markdown to your file and commit your changes
 >
-> In a text editor, add the text below to your index.md file and commit the changes to your repository.
+> In a text editor, add the markdown text below to your index.md file and commit the changes to your repository.
 >
 > ~~~
 >## Level 2 Heading
@@ -336,7 +336,7 @@ and git has also recorded some additional metadata: who made the commit (you!) a
 >
 > Embed a link with [square brackets](https://daringfireball.net/projects/markdown/syntax)
 > ~~~
-> {: .bash}
+> {: .code}
 >
 {: .challenge}
 
